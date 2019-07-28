@@ -1,0 +1,61 @@
+* 
+{
+    background-color: rgb( 5, 5, 1);
+    color:rgb(255, 255, 255);
+}
+
+
+div .butternut
+{
+    height:250px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    float:right;
+    border-color: white;
+    border:solid;
+    border-width: 10px;
+}
+
+div .freshberry
+{
+    height:250px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    float:right;
+    border-color: white;
+    border:solid;
+    border-width:  10px;
+  
+}
+
+div .asianmushroom
+{
+    height:250px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    float:right;
+    border-color: white;
+    border:solid;
+    border-width: 10px;
+}
+
+div .salsa
+{
+    height:250px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    float:right;
+    border-color: white;
+    border:solid;
+    border-width: 10px;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 50px 0;
+}
+
+td {
+  padding: 10px 0;
+}
+
